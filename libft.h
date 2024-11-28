@@ -18,6 +18,13 @@
 # include <unistd.h>
 # include <limits.h>
 
+
+
+
+
+
+dsadas
+
 typedef struct s_lis_var
 {
 	int					lis_lenght;
